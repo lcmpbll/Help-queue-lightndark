@@ -68,4 +68,4 @@ _The build is minified and the file names include hashes._
 
 _Feel free to reach out via [Github](github.com.lcmpbll) to provide feedback on this project or to view my other projects._
 
-[Copyright](LICENSE) (c) _09-15-2022_ _Liam Campbell_
+[Copyright](LICENSE) (c) _09-27-2022_ _Liam Campbell, Joe Roaden, Garrett Hayes_
