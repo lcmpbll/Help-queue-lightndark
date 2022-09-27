@@ -4,6 +4,12 @@
 
 ### By Liam Campbell, Garrett Hayes, Joe Roaden
 
+<div>
+
+<img src='lighttheme.png' alt='A help queue screenshot in light theme' width='200px'> <img src='darktheme.png' alt='A help queue screenshot in dark theme.' width='200px' height='220px'>
+
+</div>
+
 ## Table of Contents
 
 **[Technologies Used](#technologies-used)  
