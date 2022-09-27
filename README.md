@@ -30,7 +30,6 @@
 
 _This site allows a user to in put details for the creation of a tech support ticket. This site lends a user full CRUD functionality. They can create, read, update, and delete one ticket. All tickets will be displayed in a list and users can click on the ticket to get further details, edit or delete that ticket. There is also a toggleable light/dark theme available, created using context._
 
-_This site is hosted by amplify at https://aws.d3bqell5afs254.amplifyapp.com/_
 
 ## Setup/Installation Requirements
 
